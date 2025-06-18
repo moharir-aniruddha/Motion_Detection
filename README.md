@@ -27,7 +27,7 @@ Make sure you have the following installed:
 - Python 3.x
 - OpenCV (`cv2` library)
 
-### 📦 Installation
+### 📦 Installation 
 
 1. Clone this repository or download the code.
 2. Install dependencies:
